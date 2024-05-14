@@ -1,2 +1,3 @@
 # Mulc1b3R.github.io
-github pages
+
+Zendog Scribe ; https://mulc1b3r.github.io/
